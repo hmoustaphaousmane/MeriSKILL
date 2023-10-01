@@ -1,2 +1,3 @@
-# diabetes-prediction
 # MeriSKILL
+
+## Diabets Prediction
