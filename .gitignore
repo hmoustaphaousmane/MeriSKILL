@@ -1,1 +1,3 @@
+*.swp
 .ipynb_checkpoints/*
+diabetes-prediction/.ipynb_checkpoints/
