@@ -1,3 +1,4 @@
 *.swp
 .ipynb_checkpoints/*
 diabetes-prediction/.ipynb_checkpoints/
+hr-analytics/.ipynb_checkpoints/
